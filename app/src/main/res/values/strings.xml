@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">loginApps</string>
+    <string name="username">Username</string>
+    <string name="login">Masuk</string>
+    <string name="password">Password</string>
+    <string name="title_activity_drawer">DrawerActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Muhamad Irvan Dandung</string>
+    <string name="nav_header_subtitle">irvandandung1@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+</resources>
